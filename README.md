@@ -1,4 +1,3 @@
-## ANLP Project (Monsoon 2024)
 ### Project Title: Query-Guided Multi-Perspective Answer Summarization
 ### Team-6: Phrase Phantoms
 - Akshit Sharma
