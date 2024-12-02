@@ -32,5 +32,3 @@
 - Max. Input Length= 1024 tokens
 
 #### [OneDrive link for trained model files](https://iiitaphyd-my.sharepoint.com/:f:/g/personal/akshit_sharma_students_iiit_ac_in/EtA4rsz1I7NAmXppVgKOAAEBAcqzQ0b6NfZkvOU7RILTUg?e=esqgVM)
-
-#### [Link to final presentation](https://www.canva.com/design/DAGW8D4K9Oc/MoRzI8N5G9jwZcDhBNwueA/edit?utm_content=DAGW8D4K9Oc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
