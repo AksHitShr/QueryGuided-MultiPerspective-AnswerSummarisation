@@ -1,10 +1,5 @@
 ### Project Title: Query-Guided Multi-Perspective Answer Summarization
-### Team-6: Phrase Phantoms
-- Akshit Sharma
-- Rudransh Agarwal
-- Sai Asrith Devisetti
-
-### Files Submitted:
+### Files Included:
 
 - Report.pdf: Report containing explanation for all the approaches that we experimented with along with comparison of metrics.
 
